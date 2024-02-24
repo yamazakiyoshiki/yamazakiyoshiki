@@ -9,7 +9,7 @@
 # CONTACT
 
 <p align="left">
-<a href="[yoshiky1129@gmail_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[yoshiky1129@gmail_email]"/></a>
+<a href="[yoshiky1129@_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[yoshiky1129@_email]"/></a>
 </p>
 
 
