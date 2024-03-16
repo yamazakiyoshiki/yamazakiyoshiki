@@ -23,4 +23,4 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,redux,next,typescript" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,redux,next,typescript,python" /> <br /><br />
