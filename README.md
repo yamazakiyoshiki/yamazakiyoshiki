@@ -18,8 +18,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,express,mongodb,postman,react,redux,next,tailwind,emotion,sass,git,github,vscode,vite" /> <br /><br />
 
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   
 # NOW TRAINING
 
