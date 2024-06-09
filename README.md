@@ -16,7 +16,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,express,mongodb,postman,react,redux,next,tailwind,emotion,sass,git,github,vscode,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,mysql,express,mongodb,postman,react,redux,next,tailwind,emotion,sass,git,github,vscode,vite" /> <br /><br />
 
   
 # NOW TRAINING
